@@ -6,8 +6,6 @@
     * Now player can purchase weapons, attachments, items and etc at infostand which spread across the map.
     * Allied Base now present physically in the game.
 
-## Bugfix and Optimization
-
 * 1.7.5a
     * CDARS data is now persistent across saves.
     * Now the enemy commander has the ability to decide to attack zones owned by player if he likes to
