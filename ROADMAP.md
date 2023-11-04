@@ -8,7 +8,7 @@
 - [x] Enemy sends reinforcement [1.7.1a]
 - [x] Enemy may attack player zone [1.7.5a]
 - [x] Weapon dealer [1.8.0a]
-- [ ] Buy weapon from HQ [1.8.0a]
+- [x] Buy weapon from HQ [1.8.0a]
 - [ ] Ability to buy vehicle
 - [ ] Vehicle garage
 - [ ] Player wide-range ranking system
