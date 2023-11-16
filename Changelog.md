@@ -2,6 +2,8 @@
 * Unable to recreate a bug - Sometimes reinforcement doesn't replenish captured zone
 
 # Version History
+* 1.8.2a
+    * 
 * 1.8.1a
     * Allied base relocated. 
     * Added more shops. Each shop has specific weapons and items for sale.
