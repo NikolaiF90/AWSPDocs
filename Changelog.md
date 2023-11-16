@@ -3,7 +3,14 @@
 
 # Version History
 * 1.8.2a
-    * 
+    * Players can now respawn during gameplay.
+    * Units can now instantly die if they receive fatal damage, such as falling from a high place or dying in an explosion.
+    * Decreased the rate of car spawning.
+    * Optimized the shop system for faster loading.
+    * Optimized the garrison system and resolved minor bugs.
+    * Resolved the issue of backpacks inside vehicles not being saved.
+    * Optimized the script debugger.
+   
 * 1.8.1a
     * Allied base relocated. 
     * Added more shops. Each shop has specific weapons and items for sale.
