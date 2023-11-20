@@ -2,6 +2,11 @@
 * Unable to recreate a bug - Sometimes reinforcement doesn't replenish captured zone
 
 # Version History
+* 1.8.3a
+    * Players now have the option to choose suicide if there are no teammates available to revive them or if they decide to give up.
+    * Resolved an issue where zones would persist even if the player did not save their progress.
+    * Non-script-spawned units will now be automatically deleted upon game start or when loading persistent saves.
+      
 * 1.8.2a
     * Players can now respawn during gameplay.
     * Units can now instantly die if they receive fatal damage, such as falling from a high place or dying in an explosion.
