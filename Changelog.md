@@ -2,6 +2,11 @@
 * Unable to recreate a bug - Sometimes reinforcement doesn't replenish captured zone
 
 # Version History
+* 1.9.0a
+    * Player now have the ability to buy boats, cars, van, truck, helicopters and even a fighter jet.
+    * Revive: Fixed a bug where option to suicide appear many times.
+    * Revive: Resolved an issue where dead menu won't shown again if player accidentally closed it.
+      
 * 1.8.3a
     * Players now have the option to choose suicide if there are no teammates available to revive them or if they decide to give up.
     * Resolved an issue where zones would persist even if the player did not save their progress.
