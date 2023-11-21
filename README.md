@@ -7,7 +7,7 @@
 This is the documentation for Arma 3 mission Ascendancy Wars Single Player
 
 ## Changelog
-[![Static Badge](https://img.shields.io/badge/Alpha-1.8.2a-teal?style=plastic&logo=github&labelColor=black)](Changelog.md)  
+[![Static Badge](https://img.shields.io/badge/Alpha-1.9.0ateal?style=plastic&logo=github&labelColor=black)](Changelog.md)  
 
 ### Features
 [![Static Badge](https://img.shields.io/badge/Roadmap-teal?style=plastic)](ROADMAP.md)
