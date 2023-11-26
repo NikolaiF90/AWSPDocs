@@ -9,7 +9,7 @@
 - [x] Enemy may attack player zone [1.7.5a]
 - [x] Weapon dealer [1.8.0a]
 - [x] Buy weapon from HQ [1.8.0a]
-- [ ] Ability to buy vehicle
+- [x] Ability to buy vehicle [1.9.0a]
 - [ ] Vehicle garage
 - [ ] Player wide-range ranking system
 - [ ] Side missions
