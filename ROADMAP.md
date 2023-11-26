@@ -10,9 +10,9 @@
 - [x] Weapon dealer [1.8.0a]
 - [x] Buy weapon from HQ [1.8.0a]
 - [x] Ability to buy vehicle [1.9.0a]
+- [ ] Side missions
 - [ ] Vehicle garage
 - [ ] Player wide-range ranking system
-- [ ] Side missions
 - [ ] Air supply
 - [ ] Arsenal
 - [ ] Base building
